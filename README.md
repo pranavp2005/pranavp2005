@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on:  
   Database and Distributed Systems projects
 
-- 💬 Ask me about:  
-  Building Backends using Kubernetes, AWS/GCP services, and Go
+- 💬 Ask me about:
+  Distributed Systems, Cloud Services, Database Systems and Software System Design  
 
 - 📫 How to reach me:  
   LinkedIn — https://www.linkedin.com/in/pranav-pateriya/
