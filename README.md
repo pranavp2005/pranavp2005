@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   he/him
 
 - ⚡ Fun fact:  
-  I have 500+ days Duo lingo streak
+  I have 500+ days Duo lingo streak and I am currently learning Spanish and Japanese
 
 
