@@ -21,14 +21,13 @@ Here are some ideas to get you started:
 # Hi, I'm Pranav Pateriya
 
 - 🔭 I’m currently working on:  
-  My Masters Degree in CS @ Stony Brook
+  My Masters Degree in CS @ SUNY Stony Brook University
   
 - 🌱 I’m currently learning:  
-  Distributed systems, Data Science and Rust(programming language)
+  Distributed systems, Data Science and Rust
 
 - 👯 I’m looking to collaborate on:  
   Database and Distributed Systems projects
-
 
 - 💬 Ask me about:  
   Building Backends using Kubernetes, AWS/GCP services, and Go
